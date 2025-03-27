@@ -16,7 +16,7 @@
 
         main_fun: function () {
             /*====================================
-             CUSTOM LINKS SCROLLING FUNCTION 
+             Scrol
             ======================================*/
 
             $('nav a[href*=#]').click(function () {
